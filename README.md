@@ -11,12 +11,12 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Contributors
 
-@jonathanchow - KNN, Data Splitting and Fitting
+  * @jonathanchow - KNN, Data Splitting and Fitting
 
 ## Problem Definition
 
-Are we able to predict bike share demand
-Which model would be the best to predict?
+  * Are we able to predict bike share demand
+  * Which model would be the best to predict?
 
 ## Models Tested
 
